@@ -12,3 +12,17 @@
   flex-direction: column;
   align-content: center;
 }
+
+form{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 200px;
+  margin: 12px 24px;
+}
+
+p{
+  margin: 0;
+  font-size: 0.8rem;
+  font-style: italic;
+}

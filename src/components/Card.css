@@ -1,5 +1,11 @@
 .card{
     width: 300px;
-    height: 400px;
+    height: 250px;
     border: solid 1px whitesmoke;
+}
+
+.warning{
+    color: brown;
+    border: solid 1px brown;
+    padding: 6px 8px;
 }
